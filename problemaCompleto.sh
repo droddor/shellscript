@@ -1,5 +1,5 @@
-#Problema completo con varios conceptos para practicar
-#Se realizara un menu con varias opciones (10)
+# Problema completo con varios conceptos para practicar
+# Se realizara un menu con varias opciones (10)
 #!/bin/bash
 
 #Funciones deben ir al inicio del programa
